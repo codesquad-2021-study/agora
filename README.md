@@ -5,3 +5,4 @@
 ### 목록
 
 - [[JavaScript] call, apply, bind?](https://codi-rano.tistory.com/147)
+- [[Web] GET과 POST 차이](https://codi-rano.tistory.com/153)
