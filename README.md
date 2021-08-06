@@ -6,3 +6,5 @@
 [우아마켓 프로젝트 회고](https://secret-climb-fb2.notion.site/0724-04ee02ad780a47dab0b4e90e9d6b2301)
 
 [OAuth의 전체적인 흐름](https://velog.io/@proshy/OAuth%EC%9D%98-%EC%A0%84%EC%B2%B4%EC%A0%81%EC%9D%B8-%ED%9D%90%EB%A6%84)
+
+[토큰 저장 위치로 시작했다 쿠키로 흘러가는 글](https://secret-climb-fb2.notion.site/JWT-353d76ac4ad842a58f04adc4ac6a0e90)
