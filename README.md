@@ -7,3 +7,4 @@
 - [[JavaScript] call, apply, bind?](https://codi-rano.tistory.com/147)
 - [[Web] GET과 POST 차이](https://codi-rano.tistory.com/153)
 - [[Tech Article] React 프로젝트 컴포넌트 구성](https://codi-rano.tistory.com/154)
+- [[JavaScript] 싱글톤?](https://codi-rano.tistory.com/155)
