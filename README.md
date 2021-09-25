@@ -16,3 +16,4 @@
 - [ET네 만물상 프로젝트 복기 - 상태관리](https://velog.io/@jjunyjjuny/ET%EB%84%A4-%EB%A7%8C%EB%AC%BC%EC%83%81-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B3%B5%EA%B8%B0-%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC)
 - [ET네 만물상 프로젝트 복기 - style](https://velog.io/@jjunyjjuny/ET%EB%84%A4-%EB%A7%8C%EB%AC%BC%EC%83%81-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B3%B5%EA%B8%B0-style)
 - [ET네 만물상 프로젝트 복기 - test](https://velog.io/@jjunyjjuny/ET%EB%84%A4-%EB%A7%8C%EB%AC%BC%EC%83%81-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B3%B5%EA%B8%B0-test)
+- [[JavaScript] 자바스크립트의 비동기 처리](https://velog.io/@jjunyjjuny/JavaScript-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%B2%98%EB%A6%AC)
